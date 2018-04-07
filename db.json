@@ -1,0 +1,1 @@
+{"GetUserDetails":{ "ExceptionMessage ":null, "IsSucess ":true, "IsError ":false, "UserDetails":[{ "name": "JackyJohn", "Age": "25", "id": "1"},{ "name": "John", "Age": "25", "id": "1"},{ "name": "Peter", "Age": "25", "id": "1"}]}}
